@@ -1,0 +1,2 @@
+time,interval,temperature,windspeed,winddirection,is_day,weathercode
+2026-03-06T01:15,900,11.7,9.9,123,0,3
